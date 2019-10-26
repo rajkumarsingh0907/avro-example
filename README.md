@@ -4,7 +4,7 @@ Sample Customer avro schema is present in src/main/resources/avro/customer.avsc
 
 Dependency added for avro in pom.xml file is 
 
-<dependency>
+		<dependency>
 			<groupId>org.apache.avro</groupId>
 			<artifactId>avro</artifactId>
 			<version>${avro.version}</version>
